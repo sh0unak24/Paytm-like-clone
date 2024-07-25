@@ -10,5 +10,5 @@
 ## Dashboard after successfull signup
 ![dashboard](https://github.com/user-attachments/assets/ce6d1ab8-fc40-449d-8fab-781594f29061)
 
-##Money Transfer checkpoint
+## Money Transfer checkpoint
 ![send-money](https://github.com/user-attachments/assets/4ae9b9a0-946c-4503-9e82-b91837cdb871)
